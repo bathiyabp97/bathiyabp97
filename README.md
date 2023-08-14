@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bathiya Rajapaksha
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 Studies MSc in Information Technology at IIT 
 - 📫 How to reach me - rajapakshabathiya97@gmail.com
 
 <!---
